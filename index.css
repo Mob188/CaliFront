@@ -1,0 +1,13 @@
+html body {
+  
+  
+  
+  background-color: #46464b;
+    
+  }
+#root{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+}
+  
